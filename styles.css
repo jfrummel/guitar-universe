@@ -1,0 +1,83 @@
+.section-welcome {
+    background-color: #F0EEEE;
+    padding-bottom: 30px;
+}
+
+.jumbotron {
+    background: none;
+}
+
+.section-text {
+    background-color: darkgray;
+    padding: 20px;
+}
+
+.free-stuff-row {
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+
+.free-stuff-btn {
+    display: block;
+    margin: auto;
+    background-color: red;
+    color: white;
+}
+
+h5.modal-title {
+    margin: auto;
+}
+
+button.close {
+    margin-left: 0 !important;
+}
+
+.form-modal {
+    padding: 25px;
+}
+
+button.submit {
+    display: block;
+    margin: auto;
+}
+
+.img-section {
+    padding: 20px;
+    background-color: aliceblue;
+}
+
+img.guitar-players {
+    display: block;
+    margin: auto;
+}
+
+img.wrapper {
+    padding: 0;
+}
+
+.img-btn {
+    display: block;
+    margin: auto;
+    margin-top: 12px;
+    margin-bottom: 15px;
+    width: 78%;
+}
+
+
+.logo-footer {
+    padding: 15px 15px 15px 30px;
+}
+
+.fab {
+    font-size: 2.5rem;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.fa-instagram {
+    color: #ffffff;
+}
+
+.fa-google-plus-square {
+    color: #d50f25;
+}
